@@ -1,2 +1,2 @@
-# KaleidoLight.github.io
+# Kaleido Light
 # Website under Development 
