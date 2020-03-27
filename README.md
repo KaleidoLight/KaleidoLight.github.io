@@ -1,2 +1,1 @@
-# Kaleido Light
-# Website under Development 
+# La homepage di Kaleido.light
