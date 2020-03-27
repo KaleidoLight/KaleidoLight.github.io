@@ -4188,7 +4188,7 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 1.125rem;
+  padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
   font-size: 1.25rem;
@@ -4254,9 +4254,9 @@ input[type="button"].btn-block {
 
 .navbar-toggler-icon {
   display: inline-block;
-  width: 3em;
-  height: 3em;
-  vertical-align: top;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
   content: "";
   background: no-repeat center center;
   background-size: 100% 100%;
