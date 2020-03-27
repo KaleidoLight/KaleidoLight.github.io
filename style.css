@@ -2,7 +2,7 @@
 	    Kaleidolight.me
         Built with Blocs
 -----------------------------------------------------------------------------------*/
-
+ 
 body{
 	margin:0;
 	padding:0;
@@ -88,7 +88,7 @@ a:hover{text-decoration: none; cursor:pointer;}
 	padding:20px 50px;
 }
 
-/* = Full Width Blocs
+/* = Full Width Blocs 
 -------------------------------------------------------------- */
 
 .full-width-bloc{
@@ -352,7 +352,7 @@ a:hover{text-decoration: none; cursor:pointer;}
  .nav-special.fullscreen-nav .nav > li a,.nav-special.fullscreen-nav .nav .dropdown-menu > li > a{
 	color:rgba(255,255,255,.8);
 	text-align: center;
-	font-size: 50px;
+	font-size: 28px;
 }
  .nav-special.fullscreen-nav .nav > li a:hover{
 	color:#FFF;
@@ -877,17 +877,17 @@ p{
 
 
 
-/* = Mobile adjustments
+/* = Mobile adjustments 
 -------------------------------------------------------------- */
 @media (max-width: 1024px)
 {
     .bloc{
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 20px; 
+        padding-right: 20px;  
     }
     .bloc.full-width-bloc, .bloc-tile-2.full-width-bloc .container, .bloc-tile-3.full-width-bloc .container, .bloc-tile-4.full-width-bloc .container{
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 0; 
+        padding-right: 0;  
     }
 }
 @media (max-width: 991px)
@@ -910,7 +910,7 @@ p{
         padding:0 10px;
     }
     .btn-dwn{
-       display:none;
+       display:none; 
     }
     .voffset{
         margin-top:5px;
@@ -1026,7 +1026,7 @@ p{
 	.label-bloc-16-style{
 		font-size:25px;
 	}
-
+	
 }
 
 @media (max-width: 767px){
@@ -1141,7 +1141,7 @@ p{
 	.refacol{
 		margin-top:20px;
 	}
-
+	
 }
 
 @media (max-width: 575px){
@@ -1261,5 +1261,6 @@ p{
 		font-size:20px;
 		line-height:30px;
 	}
-
+	
 }
+
